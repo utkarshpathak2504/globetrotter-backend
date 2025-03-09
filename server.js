@@ -5,7 +5,7 @@ import cors from "cors";
 import connectDB from "./config/db.js"; // Ensure `.js` extension is included
 import userRoutes from "./routes/UserRoutes.js";
 import destinationRoutes from "./routes/DestinationRoutes.js";
-import errorHandler from "./middleware/errormiddleware.js";
+import errorHandler from "./middleware/errorMiddleware.js";
 import gameRoutes from "./routes/GamesRoutes.js";
 import inviteRoutes from "./routes/InviteRoutes.js"
 // Load environment variables
