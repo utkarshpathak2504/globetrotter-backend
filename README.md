@@ -8,10 +8,7 @@ Welcome to the **Globetrotter** backend project! This API powers the Globetrotte
 - [Installation](#installation)
 - [Starting the Server](#starting-the-server)
 - [API Endpoints](#api-endpoints)
-  - [User Endpoints](#user-endpoints)
-  - [Quiz Endpoints](#quiz-endpoints)
-  - [Destination Endpoints](#destination-endpoints)
-- [Folder Structure](#folder-structure)
+
 
 
 ##Tech Stack
