@@ -7,7 +7,7 @@ export const sendInvite = async (req, res) => {
     }
 
     // Construct the invite message without image
-    const inviteText = `🚀 ${username} scored ${score} points in Globetrotter! Think you can beat them? Play now: https://yourgame.com/join`;
+    const inviteText = `🚀 ${username} scored ${score} points in Globetrotter! Think you can beat them? Play now: https://globetrotter-frontend-ashen.vercel.app/quiz`;
 
     res.status(200).json({
       message: "Invite generated successfully",
